@@ -154,7 +154,7 @@ _out
         </main>
 
         <footer className="mt-8 text-center text-xs opacity-80">
-          سازنده محمد آرسا
+          سازنده محمد پارسا
         </footer>
       </div>
     </div>
